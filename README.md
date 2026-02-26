@@ -9,6 +9,7 @@
 
 ### Другое
 * [llama_3_8b_full.zip](https://drive.google.com/file/d/1c9N3vpGaqt7_HOIXnErj18NdJ9XCcW2i/view?usp=sharing) — *обученные LoRA-адаптеры*
+* [videos](https://drive.google.com/drive/folders/199oC2eZM2yKi7eefmoK0RuWF4KL4FGg0?usp=sharing) — *видео с демонстрацией работы модели*
 
 ## 📁 Структура репозитория
 * `notebooks/` — основные ноутбуки с кодом.
